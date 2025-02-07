@@ -19,3 +19,10 @@ Files and their purposes:
 2. load.sql: Insert statement to load data
 3. generate_data.py: Python script which was used to generate data
 4. conf.json: Config for the python script
+
+Languages:
+-----------
+1. PostgreSQL
+2. Python
+3. json
+   
